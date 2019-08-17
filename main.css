@@ -140,8 +140,9 @@
        #title {
        font-size: 40px;
        }
-img{
-    left: 10px;
-    right: 10px;
+img {
+
+    margin-left: 10px;
+    margin-right: 10px;
     position: absolute;
 }
